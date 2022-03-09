@@ -1,0 +1,31 @@
+Bienvenido: Edumu
+------------------------------------
+Ataque en Atomic Labs
+
+
+Iteracion | Numero de Zombies | Numero de empleados en la oficina | Numero de humanos salvados
+Zombie llegó por la ventana de la casilla [6, 0]
+Zombie llegó por la ventana de la casilla [15, 0]
+1 | 2 | 20 | 0
+Humano 2 infectado en [5, 3]
+Humano 5 infectado en [6, 5]
+Humano 8 infectado en [5, 8]
+Humano 5 infectado en [15, 7]
+Humano 7 infectado en [15, 8]
+Humano 5 infectado en [4, 7]
+Humano 8 infectado en [5, 13]
+Humano 7 infectado en [13, 14]
+Humano 7 infectado en [17, 15]
+Humano 7 infectado en [8, 14]
+Humano 1 infectado en [9, 3]
+Humano 1 infectado en [8, 3]
+Humano 1 infectado en [9, 3]
+2 | 15 | 7 | 0
+Humano 5 infectado en [7, 17]
+Humano 4 infectado en [14, 15]
+Humano 2 infectado en [9, 9]
+Humano 2 infectado en [11, 13]
+3 | 19 | 3 | 0
+Humano 1 infectado en [9, 3]
+Humano 1 infectado en [13, 17]
+Humano 1 salvado [19, 17]
